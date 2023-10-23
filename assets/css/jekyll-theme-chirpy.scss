@@ -8,7 +8,7 @@
 %link-color {
     color: #9a3939;
   }
-  @mixin dark-scheme {
+  %mixin dark-scheme {
     /* Framework color */
     --main-bg: #030404;
     --mask-bg: #030404;
