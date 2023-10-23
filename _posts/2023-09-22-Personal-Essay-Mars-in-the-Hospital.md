@@ -2,6 +2,7 @@
 date: 2023-09-22-01:44:40
 categories: [Essay]
 title: Mars in the Hospital
+tag: [uni]
 --- 
 <h2 style="text-align:center"> The Experience of Loneliness While Living in Society: Mars in the Hospital </h2>
 
