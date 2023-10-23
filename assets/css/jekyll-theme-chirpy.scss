@@ -1,53 +1,73 @@
----
----
+
 @import 'main';
 
 /* append your custom style below */
 
 
-    /* Framework color */
-  %main-bg, %mask-bg, %main-border-color {
-    color: #030404;
-  } 
-    
-    /* Common color */
-    %text-color{
-      color:rgb(175, 176, 177);
-    } 
-    
-    %link-color  {
-      color: #9a3939;
-    }
+/* Framework color */
+%main-bg,
+%mask-bg,
+%main-border-color {
+  color: #030404;
+}
 
-    %sidebar-bg, %sidebar-border-color{
-      color: #111010cb;;
-    } 
+/* Common color */
+%text-color {
+  color: rgb(175, 176, 177);
+}
 
-    %sidebar-hover-bg{
-      color: #262626;
-    } 
-   
-  
-    /* Topbar */
-    %topbar-bg{
-      color:#030404;} 
+%link-color {
+  color: #9a3939;
+}
+
+// Sidebar
+%sidebar-bg,
+%sidebar-border-color {
+  color: #111010cb;
+  ;
+}
+
+%sidebar-hover-bg {
+  color: #262626;
+}
 
 
-    %search-border-color, %search-icon-color {
-      color:rgba(231, 231, 231, 0.607);
-    } 
-   
-  
-    
-    %card-bg {color: #111010cb;}  
-    %card-hovor-bg{color:#383a3b;}
-    %card-shadow{color:rgba(189, 145, 145, 0.077) 0 6px 18px 0,}
-     
-   
-  
-    /* categories */
-    %categories-border{color:rgba(64, 66, 69, 0.5);}
+/* Topbar */
+%topbar-bg {
+  color: #030404;
+}
 
-    %categories-hover-bg{color: rgb(73, 75, 76);} 
-    %categories-icon-hover-color{color: white}
-  
+
+%search-border-color,
+%search-icon-color {
+  color: rgba(231, 231, 231, 0.607);
+}
+
+
+// Card
+%card-bg {
+  color: #111010cb;
+}
+
+%card-hovor-bg {
+  color: #383a3b;
+}
+
+%card-shadow {
+  color: rgba(189, 145, 145, 0.077) 0 6px 18px 0,
+}
+
+
+
+/* categories */
+%categories-border {
+  color: rgba(64, 66, 69, 0.5);
+}
+
+%categories-hover-bg {
+  color: rgb(73, 75, 76);
+}
+
+%categories-icon-hover-color {
+  color: white
+}
