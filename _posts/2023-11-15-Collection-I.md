@@ -9,7 +9,7 @@ I always want to be a part of something big. I craved the idea that one day, I w
 
 **Going Nowhere**
 
-When I'm on that treadmill and bike, I'm going nowhere. Ironically, I am going nowhere in my life as well. It feels like I'm trapped in limbo, forever running away from my own anxieties. 
+When I'm on that treadmill I'm going nowhere. Ironically, I am going nowhere in my life as well. It feels like I'm trapped in limbo, forever running away from my own anxieties. 
 
 I am riddled with anxiety, and yet people still think that I am fearless. But this is the furthest thing from the truth. I feel like I've put myself on a pedestal, and it hurts when I don't progress. I've been doing this shit for a long time, and I feel like a fraud almost because I gave up on my goals. Honestly, I'm disappointed in myself. And yet, I am happy because I realize my imperfections. 
 
