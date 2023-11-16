@@ -11,9 +11,9 @@ I always want to be a part of something big. I craved the idea that one day, I w
 
 When I'm on that treadmill I'm going nowhere. Ironically, I am going nowhere in my life as well. It feels like I'm trapped in limbo, forever running away from my own anxieties. 
 
-I am riddled with anxiety, and yet people still think that I am fearless. But this is the furthest thing from the truth. I feel like I've put myself on a pedestal, and it hurts when I don't progress. I've been doing this shit for a long time, and I feel like a fraud almost because I gave up on my goals. Honestly, I'm disappointed in myself. And yet, I am happy because I realize my imperfections. 
+I am riddled with anxiety, and yet people still think that I am fearless. But this is the furthest thing from the truth. I feel like I've put myself on a pedestal, and it hurts when I don't progress. I've been doing this shit for a long time, and I feel like a fraud because I gave up on my goals. Honestly, I'm disappointed in myself. And yet, I am happy because I realize my imperfections. 
 
-I haven't been very healthy for the past 6 months and have been regressing in strength for a while now. I don't quite know why I suddenly stopped caring about my body or really anything in life, but I'm here to say you are not alone when you feel like shit. I'm going to make a promise to anyone reading this. That I will try, I cannot promise that my efforts will be good or bad, but I will try. That is more than I have done my entire life, and it may be the most significant promise I have ever made.
+I haven't been very healthy for the past 6 months and have been regressing in strength for a while now. I don't quite know why I suddenly stopped caring about my body or really anything in life, but I'm here to say you are not alone. I'm going to make a promise to anyone reading this. That I will try, I cannot promise that my efforts will be good or bad, but I will try. That is more than I have done my entire life, and it may be the most significant promise I have ever made.
 
 **Addiction**
 
