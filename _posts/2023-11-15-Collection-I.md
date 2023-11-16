@@ -5,9 +5,9 @@ tags: [unfinished]
 ---
 **History**
 
-I always want to be a part of something big. I craved the idea that one day, I would look back and see my name in the history books. But my philosophy needs to be revised. Now more than ever, I realize you can only do so many things to become a crucial part of history. The question is, will I live to see the day? I don't know if I will; I'll probably die without ever knowing my potential because I lack the motivation. I've never been very driven; I have coasted through my hardships and made it out alive. Coasting does not show a sign of growth but rather a recession of my talents as a man. If I was more present, and a part of life, I would have more to offer in terms of history. 
+I always want to be a part of something big. I craved the idea that one day, I would look back and see my name in the history books. But my philosophy needs to be revised. Now more than ever, I realize you can only do so many things to become a crucial part of history. The question is, will I live to see the day? I don't know if I will; I'll probably die without ever knowing my potential because I lack the motivation. I've never been very driven; I have coasted through my hardships and made it out alive. Coasting does not show a sign of growth but rather a regression of my talents as a man. If I was more present, and a part of life, I would have more to offer in terms of history. 
 
-**Going nowhere**
+**Going Nowhere**
 
 When I'm on that treadmill and bike, I'm going nowhere. Ironically, I am going nowhere in my life as well. It feels like I'm trapped in limbo, forever running away from my own anxieties. 
 
