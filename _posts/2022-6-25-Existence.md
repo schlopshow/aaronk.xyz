@@ -3,7 +3,6 @@ title: Existence
 categories: [Thoughts]
 tags: [unfinished]
 ---
-
 I've spent most of my life thinking about the meaning of my own existence. I am not going to live a very long life. This sucks cause it's not that I want to die, but I just don't feel very well. Unless something changes drastically, I'll call it quits. For now, I'll be fine, but I can't guarantee the future.
 
 When I say I don't feel well, I mean that physically and mentally. Physically, my body is in a state of pure pain. Everything stings from nerve damage, and I don't want to take too many painkillers because it's only a temporary solution. The argument against me is always that if it significantly impacts my state of living, then I should take the correct dosage of painkillers to live my life normally. But you have to understand that the side effects and the potential of addiction are higher in me. I can't take the chance; I know myself well.
