@@ -21,7 +21,7 @@ timezone: America/Edmonton
 
 title: Aaron Kumar                        # the main title
 
-tagline: Portfolio & Archive  # it will display as the sub-title
+tagline: Archive  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Archive and Portfolio Website for Aaron Kumar
