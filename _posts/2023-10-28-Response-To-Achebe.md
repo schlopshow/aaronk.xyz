@@ -1,7 +1,7 @@
 ---
 date: 2023-10-28-19:44:40
 categories: [Essay]
-title: Response To Achebe
+title: Response to Achebe
 tag: [uni]
 --- 
 “There was a lamp in there—light, don’t you know—and outside it was so beastly, beastly dark. I went no more near the
