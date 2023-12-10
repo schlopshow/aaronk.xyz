@@ -1,7 +1,6 @@
 ---
-date: 2023-09-22-01:44:40
 categories: [Philosophy]
-title: Leibniz's and Lockes Understanding of Assent
+title: Leibniz's Block of Marble
 tag: [uni]
 --- 
 Leibniz’s Marble Block Against Universal Assent

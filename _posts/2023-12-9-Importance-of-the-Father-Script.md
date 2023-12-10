@@ -1,9 +1,8 @@
 ---
 title: Importance of the Father
-categories: [uni]
+categories: [Scripts]
+tag: [uni]
 ---
-Importance of Having A Father Script
-
 Today, I will be talking about Fathers--and the importance of having a Father. I will use Oedipus Rex by Sophocles and East of Eden by John Steinbeck.
 
 Let us first start with the ancient Greek text of Oedipus Rex. I will not be breaking down the psychological or dramatic irony of the text in depth. Instead, I want to look at the crux of the oedipal problem, which is the sins of our Fathers.
@@ -34,6 +33,7 @@ The takeaway from this story is not to be depressing and pessimistic. Even thoug
 Experience and communicating–are all we can do in our present.
 
 Works Cited
+
 Steinbeck, John. East of Eden. Penguin Classics, 2000.
 
 Edited and with an introduction by Harold Bloom. Sophocles' Oedipus Rex. New York: Chelsea House, 2007.
