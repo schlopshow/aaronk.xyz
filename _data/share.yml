@@ -4,13 +4,13 @@
 platforms:
 
 
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=URL&text=TITLE"
+#  - type: Telegram
+#    icon: "fab fa-telegram"
+#    link: "https://t.me/share/url?url=URL&text=TITLE"
 
   - type: Linkedin
     icon: "fab fa-linkedin"
-    ink: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+    ink: "https://www.linkedin.com/in/aaron-kumar-dev/"
   #
   # - type: Weibo
   #   icon: "fab fa-weibo"

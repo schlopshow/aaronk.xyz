@@ -1,0 +1,83 @@
+//************************************//
+// SHELL-SESSION/TERMINAL/CONSOLE - RED THEME
+.language-shell-session,
+.language-terminal,
+.language-console,
+.language-plaintext,
+.language-text {
+  .highlight {
+    background: #0f0000 !important;
+    border-left: 3px solid #ff3333 !important;
+
+    pre, code {
+      color: #d0d0d0 !important;
+    }
+
+    // Generic output text
+    .go {
+      color: #FF3F50 !important;
+    }
+
+    // Command prompts
+    .gp {
+      color: #ff3333 !important;
+      font-weight: bold;
+    }
+
+    // User input/commands
+    .gi {
+      color: #ff6b6b !important;
+      font-weight: 500;
+    }
+
+    // Numbers
+    .m, .mf, .mh, .mi, .mo {
+      color: #9ea3F9 !important;
+    }
+
+    // Strings
+    .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx {
+      color: #ffb3ba !important;
+    }
+
+    // Keywords
+    .k, .kc, .kd, .kn, .kp, .kr, .kt {
+      color: #dc143c !important;
+      font-weight: bold;
+    }
+
+    // Comments
+    .c, .cm, .c1, .cs {
+      color: #8b0000 !important;
+      font-style: italic;
+    }
+
+    // Names/identifiers #ff3f50
+    .n, .na, .nb, .nc, .nd, .ne, .nf, .nl, .nn, .no, .nx, .py {
+      color: #FFFFFF !important;
+    }
+
+    // Operators
+    .o, .ow {
+      color: #ff6347 !important;
+    }
+
+    // Variables (starting with $) - GREEN
+    .nv, .vc, .vg, .vi, .vb {
+      color: #00FF66 !important;
+      font-weight: 500;
+    }
+
+    // Variables that start with -
+        .nt {
+      color: #00FFFF !important;
+      font-weight: 500;
+    }
+
+    // Built-in functions
+    .bp {
+      color: #ff4500 !important;
+      font-weight: 500;
+    }
+  }
+}

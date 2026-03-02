@@ -53,7 +53,6 @@ permalink: /feed.xml
       {{ content  | strip_html | truncate: 400 }}
     </summary>
   {% endif %}
-
   </entry>
 {% endfor %}
 </feed>
